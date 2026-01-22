@@ -1,3 +1,10 @@
 body{
     background-color: lightblue;
 }
+
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
